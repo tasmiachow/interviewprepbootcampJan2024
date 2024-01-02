@@ -1,2 +1,2 @@
-# interviewprepbootcampJan2024
+# TasBootCamp
 Bootcamp Syllabus for Jan 2024
